@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://mash20000.github.io/makumishop/sitemap.xml
